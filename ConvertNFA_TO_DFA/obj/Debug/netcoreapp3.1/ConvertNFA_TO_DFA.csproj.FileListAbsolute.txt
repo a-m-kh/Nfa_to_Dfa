@@ -1,0 +1,13 @@
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\bin\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.exe
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\bin\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.deps.json
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\bin\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.runtimeconfig.json
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\bin\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.runtimeconfig.dev.json
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\bin\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.dll
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\bin\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.pdb
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\obj\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.csproj.AssemblyReference.cache
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\obj\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.AssemblyInfoInputs.cache
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\obj\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.AssemblyInfo.cs
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\obj\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.csproj.CoreCompileInputs.cache
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\obj\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.dll
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\obj\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.pdb
+C:\Users\AlMahdi\source\repos\ConvertNFA_TO_DFA\ConvertNFA_TO_DFA\obj\Debug\netcoreapp3.1\ConvertNFA_TO_DFA.genruntimeconfig.cache
